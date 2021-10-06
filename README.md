@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/ClaireLee22/Operationalize-a-Machine-Learning-Microservice-API.svg?style=svg)](https://circleci.com/gh/ClaireLee22/Operationalize-a-Machine-Learning-Microservice-API)
+[![CircleCI](https://circleci.com/gh/M-Bohram/udacity-operational-machine-learning.svg?style=svg)](https://circleci.com/gh/M-Bohram/udacity-operational-machine-learning)
 
 ## Project Overview
 
